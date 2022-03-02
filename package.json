@@ -1,0 +1,19 @@
+{
+  "name": "alexperrier_3_28022022",
+  "version": "1.0.0",
+  "description": "Projet Oc n°3",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexprr/AlexPerrier_3_28022022.git"
+  },
+  "author": "Alex Perrier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexprr/AlexPerrier_3_28022022/issues"
+  },
+  "homepage": "https://github.com/alexprr/AlexPerrier_3_28022022#readme"
+}
